@@ -42,3 +42,13 @@ Explore creating a decentralized, federated social media presence using the Acti
 ---
 
 Feedback welcome via issues or PRs.
+
+---
+
+## Repo & License
+- Public repository: https://github.com/jleibowitz-lacpw/innovation-challenge
+- License: GPL-3.0 (see LICENSE in this repo)
+
+## Promotional Site (planned)
+- We plan to publish a simple promotional site for the proposal (e.g., GitHub Pages): https://something.github.io/innovation-challenge
+- Static site generator to be chosen next week based on simplicity and fit; no implementation in this phase.
