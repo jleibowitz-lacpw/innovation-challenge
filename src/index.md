@@ -56,7 +56,7 @@ description: Federated Social Media Pilot - A proposal for the Public Works Inno
   <p>
     This concept was previously pitched at the <strong>Pasadena City College Business, 
     Entrepreneurship and Technology (BET) Club</strong> and <strong>Pasadena Small Business 
-    Development Center (SBDC)</strong> business pitch contest, where it received an 
+    Development Center (SBDC)</strong> 2025 Business Pitch Competition, where it received an 
     <strong>Innovation Award with a $500 prize</strong>.
   </p>
   <p>
