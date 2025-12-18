@@ -3,6 +3,11 @@
 ## Summary
 Explore creating a decentralized, federated social media presence using the ActivityPub protocol (e.g., Mastodon) as an additional, accessible channel for residents to follow official updates. This document is a concise proposal draft; details will be finalized before the January 29 submission.
 
+## Quick Links
+- Challenge overview & submission guide: INNOVATION-CHALLENGE.md
+- Public repository: https://github.com/jleibowitz-lacpw/innovation-challenge
+- License: GPL-3.0 (see LICENSE)
+
 ## Team (proposed)
 - Jon Leibowitz
 - Joshua Padilla
@@ -30,20 +35,15 @@ Explore creating a decentralized, federated social media presence using the Acti
 - Hosting via the Mastodon nonprofit’s institutional offering.
 - Self-hosted (County or cloud) as a comparable baseline.
 
+## Prior Pitch & Validation
+- Presented at Pasadena City College Business, Entrepreneurship and Technology (BET) Club and Pasadena Small Business Development Center (SBDC) business pitch contest; received an Innovation Award with a $500 prize.
+- Original pitch (concept: "CivicSignal" for public‑sector fediverse hosting): https://drive.google.com/file/d/1Hav67zgPjQl8eQFX-3kh81XhHem1IowO/view?usp=drivesdk
+
 ## Next Steps
 - Confirm participants and stakeholders to consult.
 - Gather requirements and constraints (accessibility, records, security, comms).
 - Contact/select a small set of providers for quotes and capabilities.
 - Draft and iterate the submission with findings and a recommendation.
-
-## Decision Log
-- 2025-12-17: Agreed to explore an ActivityPub-based pilot; began proposal drafting.
-
----
-
-Feedback welcome via issues or PRs.
-
----
 
 ## Repo & License
 - Public repository: https://github.com/jleibowitz-lacpw/innovation-challenge
@@ -52,3 +52,10 @@ Feedback welcome via issues or PRs.
 ## Promotional Site (planned)
 - We plan to publish a simple promotional site for the proposal (e.g., GitHub Pages): https://something.github.io/innovation-challenge
 - Static site generator to be chosen next week based on simplicity and fit; no implementation in this phase.
+
+## Decision Log
+- 2025-12-17: Agreed to explore an ActivityPub-based pilot; began proposal drafting.
+
+---
+
+Feedback welcome via issues or PRs.
