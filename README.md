@@ -11,6 +11,7 @@ Explore creating a decentralized, federated social media presence using the Acti
 ## Team (proposed)
 - Jon Leibowitz
 - Joshua Padilla
+- You?
 
 ## Scope
 - Investigate feasibility and value of an ActivityPub-compatible presence for Public Works.
