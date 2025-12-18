@@ -1,0 +1,12 @@
+{
+  "name": "innovation-challenge-site",
+  "version": "1.0.0",
+  "description": "Promotional site for the Public Works Innovation Challenge - Federated Social Media Pilot",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
