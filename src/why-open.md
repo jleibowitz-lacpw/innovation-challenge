@@ -108,5 +108,5 @@ description: Why we're developing this proposal in the open on a public GitHub r
 </p>
 
 <p style="margin-top: var(--spacing-xl);">
-  <a href="/team/" class="btn btn--primary">Meet the Team →</a>
+  <a href="{{ '/team/' | url }}" class="btn btn--primary">Meet the Team →</a>
 </p>

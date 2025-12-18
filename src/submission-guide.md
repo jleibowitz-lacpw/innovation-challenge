@@ -182,5 +182,5 @@ description: Checklist and guidance for completing the Innovation Challenge prop
 </div>
 
 <p style="margin-top: var(--spacing-xl);">
-  <a href="/" class="btn btn--outline">← Back to Home</a>
+  <a href="{{ '/' | url }}" class="btn btn--outline">← Back to Home</a>
 </p>

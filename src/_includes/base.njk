@@ -8,20 +8,20 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="stylesheet" href="{{ '/css/styles.css' | url }}">
 </head>
 <body>
   <nav class="nav">
     <div class="nav-container">
-      <a href="/" class="nav-brand">
+      <a href="{{ '/' | url }}" class="nav-brand">
         <span class="nav-icon">🚀</span>
         <span class="nav-title">Innovation Challenge</span>
       </a>
       <ul class="nav-links">
-        <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
-        <li><a href="/why-open/" {% if page.url == "/why-open/" %}class="active"{% endif %}>Why Open?</a></li>
-        <li><a href="/team/" {% if page.url == "/team/" %}class="active"{% endif %}>Team</a></li>
-        <li><a href="/submission-guide/" {% if page.url == "/submission-guide/" %}class="active"{% endif %}>Submission Guide</a></li>
+        <li><a href="{{ '/' | url }}" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
+        <li><a href="{{ '/why-open/' | url }}" {% if page.url == "/why-open/" %}class="active"{% endif %}>Why Open?</a></li>
+        <li><a href="{{ '/team/' | url }}" {% if page.url == "/team/" %}class="active"{% endif %}>Team</a></li>
+        <li><a href="{{ '/submission-guide/' | url }}" {% if page.url == "/submission-guide/" %}class="active"{% endif %}>Submission Guide</a></li>
       </ul>
     </div>
   </nav>
