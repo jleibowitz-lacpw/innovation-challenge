@@ -24,9 +24,11 @@ description: Meet the team behind the Federated Social Media Pilot proposal
     <p class="team-role">Team Captain</p>
     <p>
       Student worker at <strong>Pasadena City College</strong>, transferring to 
-      <strong>Cal State LA</strong> in Fall 2026. Jon brings a fresh perspective on 
-      civic technology and is passionate about making public services more accessible 
-      and transparent.
+      <strong>Cal State LA</strong> in Fall 2026. Jon is an experienced Linux administrator 
+      who is passionate about the Mastodon project. He currently runs two Mastodon servers: 
+      <code>jonleibowitz.social</code> and <code>eventhorizon.social</code> (which supports 
+      public signups). He brings a fresh perspective on civic technology and is passionate 
+      about making public services more accessible and transparent.
     </p>
     <p style="color: var(--color-text-muted); font-size: var(--font-size-sm); margin-top: var(--spacing-md);">
       <em>"The fediverse represents the kind of open, user-controlled technology that 
