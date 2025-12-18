@@ -5,6 +5,7 @@ Explore creating a decentralized, federated social media presence using the Acti
 
 ## Quick Links
 - Challenge overview & submission guide: INNOVATION-CHALLENGE.md
+- FAQ: [src/faq.md](src/faq.md)
 - Public repository: https://github.com/jleibowitz-lacpw/innovation-challenge
 - License: GPL-3.0 (see LICENSE)
 

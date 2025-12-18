@@ -74,8 +74,8 @@ description: Federated Social Media Pilot - A proposal for the Public Works Inno
     <strong>Now → January 29:</strong> Research, provider outreach, options analysis, 
     and proposal submission to the Innovation Challenge.
   </p>
-  <p style="margin-top: var(--spacing-lg);">
     <a href="{{ '/submission-guide/' | url }}" class="btn btn--primary">View Submission Checklist →</a>
+    <a href="{{ '/faq/' | url }}" class="btn btn--outline" style="margin-left: var(--spacing-md);">Read the FAQ</a>
     <a href="{{ '/why-open/' | url }}" class="btn btn--outline" style="margin-left: var(--spacing-md);">Why Build in the Open?</a>
   </p>
 </div>
